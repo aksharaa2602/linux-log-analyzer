@@ -1,0 +1,12 @@
+===== LINUX LOG ANALYZER REPORT =====
+Generated: 2026-11-03 16:11:21
+
+Successful Logins: 2
+Failed Login Attempts: 5
+
+===== IP ANALYSIS =====
+IP: 192.168.1.10 | Attempts: 4 | Severity: MEDIUM
+IP: 192.168.1.20 | Attempts: 1 | Severity: LOW
+
+===== SUSPICIOUS ACTIVITY =====
+WARNING: 192.168.1.10 has 4 failed login attempts.

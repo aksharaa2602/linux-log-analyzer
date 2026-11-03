@@ -1,0 +1,8 @@
+Nov 03 10:15:21 ubuntu sshd[1024]: Failed password for invalid user admin from 192.168.1.10 port 5021 ssh2
+Nov 03 10:16:10 ubuntu sshd[1025]: Failed password for invalid user test from 192.168.1.10 port 5022 ssh2
+Nov 03 10:17:30 ubuntu sshd[1026]: Failed password for user root from 192.168.1.20 port 5023 ssh2
+Nov 03 10:18:45 ubuntu sshd[1027]: Accepted password for vboxuser from 192.168.1.5 port 5024 ssh2
+Nov 03 10:19:12 ubuntu sshd[1028]: Failed password for invalid user guest from 192.168.1.10 port 5025 ssh2
+Nov 03 10:20:05 ubuntu sshd[1029]: Failed password for user admin from 192.168.1.10 port 5026 ssh2
+Nov 03 10:21:15 ubuntu sshd[1030]: Accepted password for vboxuser from 192.168.1.5 port 5027 ssh2
+
